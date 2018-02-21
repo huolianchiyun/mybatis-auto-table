@@ -1,0 +1,1 @@
+#mybatis-auto-update-table
